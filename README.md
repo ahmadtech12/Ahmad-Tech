@@ -1,5 +1,5 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+ <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1> 
+<p align="center"> A simple WhatsApp bot by 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
