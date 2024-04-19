@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.4",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗",
+  "description": "I am 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 Whatsapp bot develped by ahmad khan along speaking baba ✅🌍\n\t if Any Problem : https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗", "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 bot", "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗", "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗_BOT", "𝗔𝗛𝗠𝗔𝗗WaBot","𝗔𝗛𝗠𝗔𝗗_𝗠𝗗","𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 Whatsapp Bot","multi device"],
+  "success_url": "/𝗔𝗛𝗠𝗔𝗗_𝗠𝗗/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "𝗔𝗛𝗠𝗔𝗗_KHAN",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923449905013"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
