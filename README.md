@@ -2,31 +2,31 @@
 <p align="center"> A simple WhatsApp bot by 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/ahmadtech12/Ahmad-Tech/𝗔𝗛𝗠𝗔𝗗_𝗠𝗗-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30">
+    <img alt="𝗔𝗛𝗠𝗔𝗗_𝗠𝗗" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+   <a href="https://github.com/ahmadtech12/Ahmad-Tech/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
+  <a href="https://github.com/ahmadtech12/Ahmad-Tech/𝗔𝗛𝗠𝗔𝗗_𝗠𝗗/stargazers"> 
      <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 is free to use" href="https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30" target="_blank">
+    <img alt="𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖 wa channel" src="https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30" target="_blank" />
   </a>
 
 </p>
@@ -35,9 +35,9 @@
 <p align="center">
 
  <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <img title="Owner" src="https://telegra.ph/file/35ec48cb5b05b6dcd18f8.jpg"></a>
+   <a href="https://github.com/ahmadtech12/Ahmad-Tech">
+    <img src="https://telegra.ph/file/35ec48cb5b05b6dcd18f8.jpg">
   </a>
   
 
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗  whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,11 +63,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/ahmadtech12/Ahmad-Tech"><b>𝗔𝗛𝗠𝗔𝗗_𝗠𝗗</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/ahmadtech12/Ahmad-Tech/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/ahmadtech12/Ahmad-Tech/issues/new) Or ask anything here [`+Q&A`](https://github.com/ahmadtech12/Ahmad-Tech/discussions/new?category=q-a)!
 
 
 
@@ -145,7 +145,8 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 at your own risk by keeping this warning in mind.*
 
+- *ALL CREDITS GOES TO MY LIL SON 👑✅ SPEAKING BABA*
