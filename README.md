@@ -1,4 +1,4 @@
- <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1> 
+hi <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1> 
 <p align="center"> A simple WhatsApp bot by 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗. </p>
 
  
@@ -111,7 +111,7 @@
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
+5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! BY 👑𝗔𝗡𝗚𝗘𝗟 𝗝𝗔𝗡𝗘🇵🇭`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
@@ -149,4 +149,5 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 at your own risk by keeping this warning in mind.*
 
-- *ALL CREDITS GOES TO MY LIL SON 👑✅ SPEAKING BABA*
+- *𝗔𝗟𝗟 𝗖𝗥𝗘𝗗𝗜𝗧 𝗚𝗢𝗘𝗦 𝗧𝗢 👑𝗔𝗡𝗚𝗘𝗟 𝗝𝗔𝗡𝗘🇵🇭*
+- MY WHATSAPP SUPPORT CHANNEL ✅🤖 = https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30
