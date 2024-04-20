@@ -150,4 +150,37 @@ hi <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1>
 - *Use 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 at your own risk by keeping this warning in mind.*
 
 - *𝗔𝗟𝗟 𝗖𝗥𝗘𝗗𝗜𝗧 𝗚𝗢𝗘𝗦 𝗧𝗢 👑𝗔𝗡𝗚𝗘𝗟 𝗝𝗔𝗡𝗘🇵🇭*
-- MY WHATSAPP SUPPORT CHANNEL ✅🤖 = https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30
+
+-   <h2 align="center"> *⚠️ STAY CONNECTED WITH ME✅* </h2>
+
+- 𝗛𝗲𝘆 𝗗𝗘𝗔𝗥 𝗙𝗢𝗟𝗟𝗢𝗪𝗘𝗥𝗦😂🧸 𝗜 𝘀𝘂𝗴𝗴𝗲𝘀𝘁 𝘆𝗼𝘂 𝗮𝗹𝗹 𝘁𝗼 𝗷𝗼𝗶𝗻 𝗺𝘆 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝘀, 𝗴𝗿𝗼𝘂𝗽𝘀, 𝗮𝗻𝗱 𝗽𝗼𝗿𝗻𝘀 𝗮𝘀 𝘄𝗲𝗹𝗹 𝗮𝘀 𝗵𝗮𝗰𝗸𝗶𝗻𝗴 𝗯𝗼𝘁𝘀 .
+
+𝗦𝘁𝗮𝘆 `CONNECTED` *with* 𝗺𝗲 𝗮𝗻𝗱 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗽𝗲𝗿𝗳𝗲𝗰𝘁 𝗯𝗼𝘆 𝗼𝗳 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 😵‍💫💀. 
+
+
+✿ • ᭄ꦿ 𝐀𝐇𝐌𝐀𝐃 𝐓𝐄𝐂𝐇࿐ •
+ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
+ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
+
+⋆⁺₊⋆ ☾⋆⁺₊⋆⋆⁺₊⋆ ☾⋆⁺₊⋆⋆⁺₊⋆ ☾⋆⁺₊⋆
+
+          ♕︎☞︎︎︎𝐀𝐇𝐌𝐀𝐃☜︎︎︎♕︎
+
+««««««««««🇵🇰👑🌼»»»»»»»»»»»»
+
+
+
+*❤️KEEP SUPPORTING ✅
+
+
+`My TELEGRAM Main Channel 🧸`: https://t.me/ahmadtech0
+
+`MY  TELE GROUP CHAT🧸`: https://t.me/ahmadtech22
+
+`My WhatsApp channel 🧸`: https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30
+
+`MY CHEAP HACKING BOT 💀`: https://t.me/@pornstarAHMAD_bot
+
+`MY PORN BOT (STILL DEVELOPING) 💀`: https://t.me/Pornx_movies_bot
+
+ 😂👑 *𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘* 🧸 💀
