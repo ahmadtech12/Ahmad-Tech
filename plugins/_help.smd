@@ -1,30 +1,29 @@
-/**
+/*/**
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
-//                                         Ｖ：1．3．0                                                   // 
+//                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                                  ╔═════ஜ۩۞۩ஜ═════╗
+                                      𝘼𝙃𝙈𝘼𝘿_𝙏𝙀𝘾𝙃_𝘽𝙊𝙏
+                                    ╚═════ஜ۩۞۩ஜ═════╝                        //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
-*
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.3.0
+
+   * @project_name : 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗_𝗕𝗢𝗧
+   * @author : 𝗔𝗛𝗠𝗔𝗗_𝗧𝗘𝗖𝗛
+   * @wa channel : https://whatsapp.com/channel/0029VaX0OZB9WtC9c9eSfn30
+   * @description : 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗_𝗕𝗢𝗧 ,A Multi-functional whatsapp user bot.
+   * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By 𝗔𝗛𝗠𝗔𝗗_𝗧𝗘𝗖𝗛.
+   * © 2024 𝗔𝗛𝗠𝗔𝗗_𝗧𝗘𝗖𝗛.
+*/
+
  ⛥┌┤
  */
  
@@ -36,12 +35,12 @@
   let { fancytext, tlang, tiny,bot_,alive, runtime, formatp, smsg ,getAdmin , send , react ,botpic,sleep, getBuffer ,prefix, sck1,smd,sck ,getTime ,formatDate  , groupdb,smdJson,smdBuffer, isAdmin  } = require("../lib");
   const long = String.fromCharCode(8206)
   const readmore = long.repeat(4001)
-  const sᴜʜᴀɪʟ_ᴍᴅ = require('../lib/plugins')
+  const AHMAD_MD = require('../lib/plugins')
   const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
   const axios = require('axios')
   const fetch = require("node-fetch");
   const util = require("util");
-  const events = sᴜʜᴀɪʟ_ᴍᴅ;
+  const events = AHMAD_MD;
   const { commands } = require('../lib');
   const { exec } = require("child_process")
   const translatte = require("translatte");
@@ -53,8 +52,8 @@
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://telegra.ph/file/d90855d13352c8aae3981.mp4",
-      "required" :false
+      "value": "https://telegra.ph/file/35ec48cb5b05b6dcd18f8.jpg",
+      "required" :true
     },
 */
 
