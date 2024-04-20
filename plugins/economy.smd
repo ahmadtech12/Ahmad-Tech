@@ -117,7 +117,7 @@ smd({
        let users = message.mentionedJid ? message.mentionedJid[0] : message.msg.contextInfo.participant || false;
        if(!users) return message.reply('Please give me user.')
        const balance  = await eco.balance(users, "Suhail")
-       await eco.deduct(users, "Suhail", balance.wallet);
+       await eco.deduct(users, "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣_𝗕𝗢𝗧", balance.wallet);
        return await message.reply(`⛩️ User: @${users.split('@')[0]} \n *🧧 @${users.split('@')[0]} lost all 🪙 in wallet.*\n_Now live with that poverty.🫡_`,{mentions:[users]})
       }catch(e){message.error(`${e}\n\ncommand: resetwallet`,e)}
 }
@@ -146,8 +146,8 @@ async(message,match) => {
        case '1000':
        case '1':
        if (k > balance.wallet ) return message.reply(`*_You need to pay 🪙100 to increase bank capacity ~ 1000 sp_*`);
-         const deduct1 = await eco.deduct(user, "Suhail", 100);
-         const add1 = eco.giveCapacity(user,"Suhail", 1000);
+         const deduct1 = await eco.deduct(user, "𝗔𝗛𝗠𝗔𝗗_𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣_𝗕𝗢𝗧", 100);
+         const add1 = eco.giveCapacity(user,"𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", 1000);
          return await message.reply(`*1000 🪙diamond storage has been added in ${message.senderName} bank*`)
 
 
@@ -155,8 +155,8 @@ async(message,match) => {
        case '100000':
        case '2':
        if (k < balance.wallet) return message.reply(`*You need to pay 🪙1000 to increase bank capacity ~ 100000 sp*`);
-         const deduct2 = await eco.deduct(user,"Suhail", 1000);
-         const add2 = eco.giveCapacity(user, "Suhail", 100000);
+         const deduct2 = await eco.deduct(user,"𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", 1000);
+         const add2 = eco.giveCapacity(user, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", 100000);
          return await message.reply(`*100000 🪙diamond storage has been added in ${message.pushName} bank*`)
 
 
@@ -165,8 +165,8 @@ async(message,match) => {
        case '10000000':
        case '3':
        if (k < balance.wallet) return message.reply(`You need to pay 🪙10000 to increase bank capacity ~ 1000 sp`);
-          const deduct3 = await eco.deduct(user, "Suhail", 10000);
-          const add3 = eco.giveCapacity(user, "Suhail", 10000000);
+          const deduct3 = await eco.deduct(user, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", 10000);
+          const add3 = eco.giveCapacity(user, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", 10000000);
           return await message.reply(`*10000000 🪙diamond storage has been added in ${message.pushName}\'s bank*`)
 
 
@@ -214,7 +214,7 @@ await message.reply('*What are you trying to do📉*.')
    },
    async(message) => {
      try{
-   let h = await eco.lb("Suhail",10);
+   let h = await eco.lb("𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖",10);
    let str = `*Top ${h.length} users with more money in wallet.*\n`
    const { sck1 } = require('../lib');
    let arr = []
@@ -250,7 +250,7 @@ async(message,match) => {
        const code = value[1];
        let d = parseInt(word)
        if (!d) return message.reply("check your text plz u r using the command in a wrong way👀");
-       const balance = await eco.balance(user1, "Suhail");
+       const balance = await eco.balance(user1, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖");
        let a = (balance.wallet) < parseInt(word)
        //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
        if(a == true) return message.reply("you dont have sufficient money to transfer👎");
@@ -277,7 +277,7 @@ async(message,match) => {
        let zerogroup = (await sck.findOne({ id: message.chat,})) || await sck.new({id: message.chat,})
        let mongoschemas = zerogroup.economy || "false";
        if (mongoschemas == "false") return message.reply("*🚦Economy* is not active in current group.");
-        const balance = await eco.balance(message.sender,"Suhail"); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
+        const balance = await eco.balance(message.sender,"𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖"); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
         return await message.reply(`*👛 ${message.pushName}'s Purse:*\n\n_🪙${balance.wallet}_`)
    //return await Aviator.bot.sendButtonText(message.chat, `*👛 ${message.pushName}'s Purse:*\n\n_🪙${balance.wallet}_`, `${Config.ownername.split(' ')[0]}-Economy Version: 0.0.6`, message);
        }catch(e){message.error(`${e}\n\ncommand: wallet`,e)}
@@ -297,7 +297,7 @@ async(message,match) => {
        if(!message.isCreator) return message.reply(`*_Hey buddy, only my owner can give money!_*`)
         let users = message.mentionedJid ? message.mentionedJid[0] : message.msg?.contextInfo?.participant || false;
         if(!users) return message.reply('Please give me user to add money.')
-        await eco.give(users, "Suhail", parseInt(match.split(' ')[0]));
+        await eco.give(users, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", parseInt(match.split(' ')[0]));
        return await message.bot.sendMessage(message.chat,{text: `Added 📈 ${parseInt(match.split(' ')[0])} to @${users.split('@')[0]} wallet🛸.`,mentions:[users]},{quoted:message})
        }catch(e){message.error(`${e}\n\ncommand: give`,e)}
    }
@@ -316,7 +316,7 @@ async(message,match) => {
        let zerogroup = (await sck.findOne({  id: message.chat,  })) || (await sck.new({   id: message.chat,   }) );
        let mongoschemas = zerogroup.economy || "false";
        if (mongoschemas == "false") return message.reply("*🚦Economy* is not active in current group.");
-       const balance = await eco.balance(message.sender, "Suhail"); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
+       const balance = await eco.balance(message.sender, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖"); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
        return await message.reply(`🍀User: ${message.pushName}\n\n_🪙${balance.bank}/${balance.bankCapacity}_`)
    //return await Aviator.bot.sendButtonText(message.chat, `🍀User: ${message.pushName}\n\n_🪙${balance.bank}/${balance.bankCapacity}_`, `${Config.ownername.split(' ')[0]}-Economy \n Version: 0.0.6`, message);
        }catch(e){message.error(`${e}\n\ncommand: bank`,e)}
@@ -340,8 +340,8 @@ async(message,match) => {
        const user1 = message.sender
        const user2 = users
        const k = 1000
-       const balance1  = await eco.balance(user1, "Suhail")
-   const balance2  = await eco.balance(user2, "Suhail")
+       const balance1  = await eco.balance(user1, "S𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖l")
+   const balance2  = await eco.balance(user2, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖")
    const typ = ['ran','rob','caught'];
    const random = typ[Math.floor(Math.random() * typ.length)];
    if (k > balance1.wallet) return message.reply(`*☹️ You don't have enough money to pay incase you get caught*`);
@@ -356,14 +356,14 @@ async(message,match) => {
              break
        case 'rob':
      const deduff = Math.floor(Math.random() * 1000)	    
-         await eco.deduct(user2, "Suhail", deduff);
-         await eco.give(message.sender, "Suhail", deduff);
+         await eco.deduct(user2, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", deduff);
+         await eco.give(message.sender, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", deduff);
          await message.reply(`*🤑 Robbery operation done successfully.🗡️*\nYou ran with ${deduff} amount in your wallet.`)
          ////message.react('💀')
              break
        case 'caught':
           const rmoney = Math.floor(Math.random() * 1000)
-          await eco.deduct(user1, "Suhail", rmoney);
+          await eco.deduct(user1, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", rmoney);
           await message.reply(`*Sorry FBI👮 caught up with you, you paid ${rmoney} 🪙 from wallet🥹.*`)
           ////message.react('😦')
             break
@@ -392,9 +392,9 @@ await message.reply('*What are you trying to do👀*.')
        const user = message.sender
        if (!match) return message.reply("*Provide the amount💰 you want to withdraw💳!*");
        const query = match.trim();
-       const withdraw = await eco.withdraw(user, "Suhail", query);
+       const withdraw = await eco.withdraw(user, "𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", query);
        if(withdraw.noten) return message.reply('*🏧 Insufficient fund in bank🫤*'); //if user states more than whats in his wallet
-       const add = eco.give(user,"Suhail", query);
+       const add = eco.give(user,"𝞓𝞖𝞛𝞓𝘿-𝙏𝞢𝘾𝞖", query);
        message.reply(`*🏧 ALERT* \n _🪙${withdraw.amount} has been withdrawn from your wallet💰._`)
        }catch(e){message.error(`${e}\n\ncommand: withdraw`,e)}
    }
