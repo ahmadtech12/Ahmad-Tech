@@ -98,7 +98,9 @@ hi <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1>
 ##
 
 
- 
+##
+      *MONGO DB URL* : 
+  🌍🔓FREE MONGO DB  ➡️ : mongodb+srv://KUSHAN:5000@cluster0.zji09ho.mongodb.net/
 
 
 
@@ -109,9 +111,9 @@ hi <h1 align="center"> 𝗔𝗛𝗠𝗔𝗗_𝗠𝗗 </h1>
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/ahmadtech12/Ahmad-Tech/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! BY 👑𝗔𝗡𝗚𝗘𝗟 𝗝𝗔𝗡𝗘🇵🇭`***
+5.  ***Deploy on [`HEROKU`](https://heroku.com/deploy?template=https://github.com/ahmadtech12/Ahmad-Tech).  `FIXED! BY 👑𝗔𝗡𝗚𝗘𝗟 𝗝𝗔𝗡𝗘🇵🇭`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
