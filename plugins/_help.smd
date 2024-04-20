@@ -35,7 +35,7 @@
   let { fancytext, tlang, tiny,bot_,alive, runtime, formatp, smsg ,getAdmin , send , react ,botpic,sleep, getBuffer ,prefix, sck1,smd,sck ,getTime ,formatDate  , groupdb,smdJson,smdBuffer, isAdmin  } = require("../lib");
   const long = String.fromCharCode(8206)
   const readmore = long.repeat(4001)
-  const AHMAD_MD = require('../lib/plugins')
+  const AHMAD_MD. = require('../lib/plugins')
   const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
   const axios = require('axios')
   const fetch = require("node-fetch");
